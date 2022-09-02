@@ -26,5 +26,5 @@ Below are the balanced accuracy scores of the machine learning models we used.
 
 - Easy Ensemble Adaboost Classifier
 
-##Summary: 
+## Summary: 
 SMOTE Oversampling had the highest accuracy score, therefore we recommend this model for credit risk analysis.
