@@ -1,8 +1,11 @@
 # Credit_Risk_Analysis
 
-Overview of the analysis: The purpose of this analysis is to evaluate the performance of different machine learning models and make a written recommendation on whether they should be used to predict credit risk.
+## Overview of the analysis: 
+The purpose of this analysis is to evaluate the performance of different machine learning models and make a written recommendation on whether they should be used to predict credit risk.
 
-Results: Below are the balanced accuracy scores of the machine learning models we used. 
+## Results: 
+Below are the balanced accuracy scores of the machine learning models we used. 
+
 - Random Oversampling
 
 ![Screen Shot 2022-09-02 at 8 15 00 AM](https://user-images.githubusercontent.com/66224990/188180818-7a084e36-cfc3-42a7-836f-a18404833c3a.png)
