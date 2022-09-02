@@ -4,7 +4,7 @@
 The purpose of this analysis is to evaluate the performance of different machine learning models and make a written recommendation on whether they should be used to predict credit risk.
 
 ## Results: 
-Below are the balanced accuracy scores of the machine learning models we used. 
+Below are the balanced accuracy scores and classification reports of the machine learning models we used. 
 
 - Random Oversampling
 
